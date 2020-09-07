@@ -6,27 +6,27 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="okolie-chukwuka-87609b181"><a class="LI-simple-link" href='https://ng.linkedin.com/in/okolie-chukwuka-87609b181?trk=profile-badge'>Okolie Chukwuka</a></div>
 
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-chukypedro15@gmail.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:chukypedro15@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://okoliechykwuka.github.io/portfolio/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
+- Data Analysis ✍️
 - Machine Learning 🧐
 - Data Science 😬
+- Django 😬
 
 <a href="https://gitstats.me/rajaprerak">
     <img width="420" height="auto" align="right" alt="Joykishan's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    src="https://github-readme-stats.vercel.app/api?username=okoliechykwuka&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 </a>
 
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 

@@ -3,8 +3,7 @@
 
 
 ### Hi there, I am Okolie Chukwuka 👋
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="okolie-chukwuka-87609b181"><a class="LI-simple-link" href='https://ng.linkedin.com/in/okolie-chukwuka-87609b181?trk=profile-badge'>Okolie Chukwuka</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-okolie_chukwuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okolie-chukwuka-87609b181/)](https://www.linkedin.com/in/okolie-chukwuka-87609b181/)
 
 [![Gmail Badge](https://img.shields.io/badge/-chukypedro15@gmail.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:chukypedro15@gmail.com) 
 
@@ -18,7 +17,7 @@
 - Data Science 😬
 - Django 😬
 
-<a href="https://gitstats.me/rajaprerak">
+<a href="https://gitstats.me/okoliechykwuka">
     <img width="420" height="auto" align="right" alt="Joykishan's github stats" 
     src="https://github-readme-stats.vercel.app/api?username=okoliechykwuka&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 </a>

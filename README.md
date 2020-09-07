@@ -17,7 +17,7 @@
 - Django 😬
 
 <a href="https://gitstats.me/okoliechykwuka">
-    <img width="420" height="auto" align="right" alt="Joykishan's github stats" 
+    <img width="419" height="auto" align="right" alt="Joykishan's github stats" 
     src="https://github-readme-stats.vercel.app/api?username=okoliechykwuka&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 </a>
 

@@ -7,7 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-chukypedro15@gmail.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:chukypedro15@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://okoliechykwuka.github.io/portfolio/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 

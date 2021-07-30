@@ -15,6 +15,8 @@
 - Machine Learning 🧐
 - Data Science 😬
 - Django 😬
+- SQL 🧐
+- R 😬
 
 <a href="https://gitstats.me/okoliechykwuka">
     <img width="419" height="auto" align="right" alt="Joykishan's github stats" 

@@ -2,13 +2,11 @@
 
 <!-- https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif -->
 <!-- https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif -->
-
 ### Hi there, I am Okolie Chukwuka 👋
 [![Linkedin Badge](https://img.shields.io/badge/-okolie_chukwuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okolie-chukwuka-87609b181/)](https://www.linkedin.com/in/okolie-chukwuka-87609b181/)
 [![Gmail Badge](https://img.shields.io/badge/-chukypedro15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:chukypedro15@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://okoliechykwuka.github.io/portfolio/)
-
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Data Analysis ✍️

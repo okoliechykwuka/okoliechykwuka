@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="400">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
 <!-- https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif -->
 <!-- https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif -->

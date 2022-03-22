@@ -14,7 +14,7 @@
 - Data Analysis ✍️
 - Machine Learning 🧐
 - Data Science 😬
-- Django 😬
+- Django, Flask, FastAPI 😬
 - SQL 🧐
 - R 😬
 

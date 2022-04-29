@@ -17,6 +17,7 @@
 - Django, Flask, FastAPI 😬
 - SQL 🧐
 - R 😬
+- Julia 😬
 
 <a href="https://gitstats.me/okoliechykwuka">
     <img width="419" height="auto" align="right" alt="Joykishan's github stats" 

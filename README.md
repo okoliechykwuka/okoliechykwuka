@@ -18,6 +18,11 @@
 - SQL 🧐
 - R 😬
 - Julia 😬
+- Langchain
+- Transformer
+- Pytorch
+- Openai
+- Tensorflow
 
 <a href="https://gitstats.me/okoliechykwuka">
     <img width="419" height="auto" align="right" alt="Joykishan's github stats" 

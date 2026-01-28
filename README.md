@@ -3,6 +3,10 @@
 <!-- https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif -->
 <!-- https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif -->
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ### Hi there, I am Okolie Chukwuka 👋
 [![Linkedin Badge](https://img.shields.io/badge/-okolie_chukwuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okolie-chukwuka-87609b181/)](https://www.linkedin.com/in/okolie-chukwuka-87609b181/)
 [![Gmail Badge](https://img.shields.io/badge/-chukypedro15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:chukypedro15@gmail.com) 
